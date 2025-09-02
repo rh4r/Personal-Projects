@@ -1,0 +1,1 @@
+Hello there, this is a simple educational python project demonstrating a basic keylogger to monitor user inputs. Inwhich, the file is created to log these results within the temp directory, which can then be easily deleted and the application closed.
