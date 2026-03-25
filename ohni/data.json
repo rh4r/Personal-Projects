@@ -1,0 +1,10 @@
+{
+    "filter_list": [
+      "naughty words"
+    ],
+    "command_list": [
+        "$blacklist_add",
+        "$blacklist_remove",
+        "$purge"
+    ]
+}
